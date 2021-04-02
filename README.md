@@ -1,12 +1,15 @@
 # Blog para Projeto Pessoal. 
 
-[![captuuuuura.png](https://i.postimg.cc/ncZFC6hP/captuuuuura.png)](https://postimg.cc/vDqFK29r)
-
-</br>
 O Blog terá o conteúdo atualizado assim que ajustar tudo. Isso é uma prévia </br>
 Prévia (deploy no netlify) https://pedantic-mestorf-73e9c0.netlify.app/
 </br>
 Fique a vontade para clonar, contribuir etc.
+</br>
+
+[![captuuuuura.png](https://i.postimg.cc/ncZFC6hP/captuuuuura.png)](https://postimg.cc/vDqFK29r)
+
+</br>
+
 
 ## Project setup
 ```
