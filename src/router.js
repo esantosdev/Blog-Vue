@@ -10,7 +10,7 @@ const blogRoutes = Object.keys(BlogEntries).map(section => {
   const children = BlogEntries[section].map(child => ({
     path: child.id,
     name: child.id,
-    component: () => import(`./markdowns/mais/${child.id}.md`),
+    component: () => import(`./markdowns/posts/${child.id}.md`),
 
   }))
   return {
