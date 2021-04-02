@@ -1,6 +1,4 @@
 # Blog para Projeto Pessoal. 
-Podem desfrutar de tudo, mas o layout saiu da minha mente. rs!!! 
-
 ## Project setup
 ```
 npm install
