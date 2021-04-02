@@ -1,6 +1,9 @@
 # Blog para Projeto Pessoal. 
 </br>
-O Blog terá o conteúdo atualizado assim que ajustar tudo. Isso é uma prévia
+O Blog terá o conteúdo atualizado assim que ajustar tudo. Isso é uma prévia </br>
+Prévia (deploy no netlify) https://pedantic-mestorf-73e9c0.netlify.app/
+</br>
+Fique a vontade para clonar, contribuir etc.
 
 ## Project setup
 ```
