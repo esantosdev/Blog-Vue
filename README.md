@@ -1,7 +1,7 @@
 # Blog para Projeto Pessoal. 
 
 O Blog terá o conteúdo atualizado assim que ajustar tudo. Isso é uma prévia </br>
-Prévia (deploy no netlify) https://pedantic-mestorf-73e9c0.netlify.app/
+Prévia (deploy no netlify) https://elastic-fermi-655d24.netlify.app/
 </br>
 Fique a vontade para clonar, contribuir etc.
 </br>
