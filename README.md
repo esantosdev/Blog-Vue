@@ -1,5 +1,4 @@
 # Blog para Projeto Pessoal. 
-Veja no Netlify: https://youthful-torvalds-ef6613.netlify.app/
 </br>
 O Blog terá o conteúdo atualizado assim que ajustar tudo. Isso é uma prévia
 
