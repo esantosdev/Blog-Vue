@@ -1,17 +1,12 @@
 {
-  "mais": [
+  "posts": [
     {
-      "id": "primeiro",
+      "id": "1",
       "date": "01 de Abril de 2021",
-      "title": "Começo",
-      "description": "Pegando no pesado"
-    },
-    {
-      "id": "segundo",
-      "date": "01 de Abril de 2021",
-      "title": "Vue",
-      "description": "Estudando Vue"
+      "title": "Fazendo deploy de aplicação com Netlify (Vue, React). Método fácil ",
+      "description": " Deploy simples com Netlify (React, Vue) "
+      
     }
-  
+   
   ]
 }
