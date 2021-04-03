@@ -4,9 +4,13 @@ O Blog terá o conteúdo atualizado assim que ajustar tudo. Isso é uma prévia 
 
 O que utilizei: Vue, bootstrap-vue (na nav). </br>
 
+
 Experimente: https://tender-snyder-d9f93e.netlify.app </br>
 Ps: Tive de adicionar "!important" ao css da navbar, pois os atributos padrão da nav do bootstrap escondiam o ícone de menu ao ser removidos.
 </br>
+
+Conquistas:
+Layout Responsivo, navegação entre páginas ok, paleta de cores definida. </br>
 
 Pauta:
 Até o momento, adicionei o routing à navbar, permitindo navegação entre componentes. Este passo foi desafiador, mas consegui. </br>
