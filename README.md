@@ -19,6 +19,7 @@ E sim, ajustar o posicionamento do formulário e demais detalhes necessários à
 
 
 Home (até agora) [![homeeee.png](https://i.postimg.cc/ryt9f7cB/homeeee.png)](https://postimg.cc/8sNW5K74)
+O footer irei colocar links e alguns outros elementos. Resolvi tirar por enquanto.
 </br>
 
 Área de Contato (formulário -> a adicionar funcionalidades)
