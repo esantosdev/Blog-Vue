@@ -1,6 +1,7 @@
 import Vue from 'vue'
 import Router from 'vue-router'
 import Home from './views/Home.vue'
+import Contato from './components/Contato.vue'
 
 Vue.use(Router)
 
@@ -31,6 +32,13 @@ export default new Router({
       name: 'home',
       component: Home
     },
+
+    {
+      path: '/Contato',
+      name: 'contato',
+      component: Contato
+    },
+    
     ...blogRoutes
   ]
 
