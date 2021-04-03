@@ -4,7 +4,7 @@ O Blog terá o conteúdo atualizado assim que ajustar tudo. Isso é uma prévia 
 
 O que utilizei: Vue, bootstrap-vue (na nav). </br>
 
-Experimente: https://cranky-kilby-dcedb6.netlify.app/ </br>
+Experimente: https://loving-pasteur-22aadc.netlify.app/ </br>
 
 Pauta:
 Até o momento, adicionei o routing à navbar, permitindo navegação entre componentes. Este passo foi desafiador, mas consegui. </br>
