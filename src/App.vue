@@ -21,12 +21,7 @@
     </b-collapse>
   </b-navbar>
 </div>
-  
-  <div class="footer">
-      <p>By: Cryptus</p> 
-
-   </div>  
-  
+   
 
     <div>
       <router-view/>
@@ -36,16 +31,7 @@
 </template>
 <style scoped>
 
-.footer {
-      font-size: 20px;
-      position: fixed;
-      left: 0;
-      bottom: 0;
-      width: 100%;
-      background-color: rgb(50, 6, 100);
-      color: white;
-      text-align: center;
- }
+
 
  .nav-princ{
    background-color:#6600cc !important;

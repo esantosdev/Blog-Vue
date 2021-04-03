@@ -2,6 +2,8 @@ import Vue from 'vue'
 import Router from 'vue-router'
 import Home from './views/Home.vue'
 import Contato from './components/Contato.vue'
+import Sobre from './components/Sobre.vue'
+import Acervo from './components/Acervo.vue'
 
 Vue.use(Router)
 
@@ -37,6 +39,19 @@ export default new Router({
       path: '/Contato',
       name: 'contato',
       component: Contato
+    },
+
+    {
+      path: '/Sobre',
+      name: 'Sobre',
+      component: Sobre
+    },
+
+    
+    {
+      path: '/Acervo',
+      name: 'Acervo',
+      component: Acervo
     },
     
     ...blogRoutes
