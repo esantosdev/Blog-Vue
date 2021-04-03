@@ -4,7 +4,7 @@ O Blog terá o conteúdo atualizado assim que ajustar tudo. Isso é uma prévia 
 
 O que utilizei: Vue, bootstrap-vue (na nav). </br>
 
-Experimente: https://loving-pasteur-22aadc.netlify.app/ </br>
+Experimente: https://tender-snyder-d9f93e.netlify.app </br>
 Ps: Tive de adicionar "!important" ao css da navbar, pois os atributos padrão da nav do bootstrap escondiam o ícone de menu ao ser removidos.
 </br>
 
@@ -12,7 +12,7 @@ Pauta:
 Até o momento, adicionei o routing à navbar, permitindo navegação entre componentes. Este passo foi desafiador, mas consegui. </br>
 Renomeei alguns links na nav (nem todos estão prontos). O componente contato já acrescentei, porém preciso colocar para funcionar o envio de e-mail. </br> 
 E sim, ajustar o posicionamento do formulário e demais detalhes necessários à finalização dos layouts </br>
-As seções "Sobre" e "Acervo" também estão em andamento. </br>
+
 
 Home (até agora) [![homeeee.png](https://i.postimg.cc/ryt9f7cB/homeeee.png)](https://postimg.cc/8sNW5K74)
 </br>
